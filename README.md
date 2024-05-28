@@ -19,7 +19,7 @@ I'm **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Sci
 
 Here are some of the projects I've worked on:
 
-- **[Best Buys: Cars with High Resale Value and Low Depreciation]([link](https://github.com/Kittisak-M/Vehicle-Sales-Analysis))**: Explore the Vehicle Sales dataset to identify the best brand-new or used cars to buy based on their potential resale value and low depreciation for value-conscious customers.
+- **[Best Buys: Cars with High Resale Value and Low Depreciation]([https://github.com/Kittisak-M/Vehicle-Sales-Analysis])**: Explore the Vehicle Sales dataset to identify the best brand-new or used cars to buy based on their potential resale value and low depreciation for value-conscious customers.
 
 ## Contact 📧
 
