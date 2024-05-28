@@ -1,4 +1,4 @@
-# Kittisak Maungmanee
+# Kittisak Maungmanee 
 
 Welcome to my GitHub profile! I'm Kittisak Maungmanee, a passionate enthusiast in the fields of Data Science, Finance, and Business. 
 
@@ -8,8 +8,8 @@ I have a strong interest in leveraging data to drive business decisions and fina
 
 ## Interests
 
-- **Data Science**: I enjoy working with data to uncover hidden patterns and insights. My skills include data cleaning, visualization, and applying various machine learning algorithms.
-- **Finance**: Understanding financial markets and using data to predict trends and make informed investment decisions is a key area of my focus. I am particularly interested in financial modeling and quantitative analysis.
+- **Data Science**: I enjoy working with data to uncover hidden patterns and insights. My skills include data cleaning and visualization.
+- **Finance**: Understanding financial markets and using financial data to get insight and trends and make informed investment decisions is a key area of my focus.
 - **Business**: With a background in business, I aim to bridge the gap between technical data analysis and strategic business decisions. I am fascinated by how data-driven insights can lead to more effective and efficient business operations.
 
 ## Skills
@@ -17,7 +17,7 @@ I have a strong interest in leveraging data to drive business decisions and fina
 - Programming Languages: Python, SQL
 - Data Analysis: Pandas, NumPy, Seaborn, Matplotlib, Plotly
 - Finance: Stock Analysis
-- Business: Competitive Analysis
+- Business: Competitive Analysis, Cost Analysis
 
 ## Projects
 
