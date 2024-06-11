@@ -1,6 +1,6 @@
 # About Me 🎓📊💼
 
-I'm **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Science**, **Finance**, and **Business**. I have a strong interest in leveraging data to drive business decisions and financial analysis. My goal is to combine my analytical skills with my business acumen to solve complex problems and create value. Whether it's through data cleaning, visualization, or statistical analysis, I am always eager to explore new methods and tools to enhance my understanding and insights.
+I am **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Science**, **Finance**, and **Business**. I have a strong interest in leveraging data to drive business decisions and financial analysis. My goal is to combine my analytical skills with my business acumen to solve complex problems and create value. Whether it's through data cleaning, visualization, or statistical analysis, I am always eager to explore new methods and tools to enhance my understanding and insights.
 
 ## Interests 🌟
 
@@ -11,15 +11,15 @@ I'm **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Sci
 ## Skills 🛠️
 
 - **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly
+- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, Pycaret
 - **Finance**: Stock Analysis
 - **Business**: Competitive Analysis, Cost Analysis
 
 ## Projects 🚀
 
-Here are some of the projects I've worked on:
+Here are some of the projects I have worked on:
 
-- **[Best Buys: Cars with High Resale Value and Low Depreciation](https://github.com/Kittisak-M/Vehicle-Sales-Analysis)**: Explore the Vehicle Sales dataset to identify the best brand-new or used cars to buy based on their potential resale value and low depreciation for value-conscious customers.
+- **[Best Strategy to Buy Used Car Considering Value, Worth, and Depreciation](https://github.com/Kittisak-M/Best-Strategy-to-Buy-Used-Car-Considering-Value-Worth-and-Deprecation)**: Explore the Vehicle Sales dataset to identify the best brand-new or used cars to buy based on their potential resale value and low depreciation for value-conscious customers.
 
 ## Contact 📧
 
