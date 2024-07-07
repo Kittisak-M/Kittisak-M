@@ -10,7 +10,7 @@ I am **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Sc
 
 ## Skills 🛠️
 
-- **Programming Languages**: Python, SQL,R
+- **Programming Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, Pycaret
 - **Finance**: Stock Analysis, Finance Ratios Analysis, Finance Modeling, Financial Statement
 - **Business**: Competitive Analysis, Cost Analysis
