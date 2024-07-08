@@ -25,5 +25,4 @@ Here are some of the projects I have worked on:
 
 Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I'm always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
 
-Thank you for visiting my profile!
 
