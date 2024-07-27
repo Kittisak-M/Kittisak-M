@@ -4,22 +4,24 @@ I am **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Sc
 
 ## Interests 🌟
 
-- **Data Science**: I enjoy working with data to uncover hidden patterns and insights. My skills include data cleaning and visualization.
+- **Data Science**: Enjoy working with data to uncover hidden patterns and insights. My skills include data cleaning and visualization.
 - **Finance**: Understanding financial markets and using financial stock data to get insights, trends, and make informed investment decisions is a key area of my focus.
 - **Business**: With a background in business, I aim to bridge the gap between technical data analysis and strategic business decisions. I am fascinated by how data-driven insights can lead to more effective and efficient business operations.
 
 ## Skills 🛠️
 
 - **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, Pycaret
-- **Finance**: Stock Analysis, Finance Ratios Analysis, Finance Modeling, Financial Statement
-- **Business**: Competitive Analysis, Cost Analysis
+- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
+- **Finance**: Stock Analysis, Finance Ratios Analysis, Financial Statement
+- **Business**: Competitive Analysis, Cost Analysis, Five Force Model 
+- **Data Visualization**: Looker Studio 
 
 ## Projects 🚀
 
 Here are some of the projects I have worked on:
 
 - **[Best Strategy to Buy Used Car Considering Value, Worth, and Depreciation](https://github.com/Kittisak-M/Best-Strategy-to-Buy-Used-Car-Considering-Value-Worth-and-Deprecation)**: Explore the Vehicle Sales dataset to identify the best brand-new or used cars to buy based on their potential resale value and low depreciation for value-conscious customers.
+- **[Sakila Database Analysis with SQLite](https://github.com/Kittisak-M/Sakila-Database-Analysis-with-SQLite)**: Utilize SQLite to explore the Sakila Database. This project includes writing and executing SQL queries to extract valuable insights and conduct comprehensive data analysis.
 
 ## Contact 📧
 
