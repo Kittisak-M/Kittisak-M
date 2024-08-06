@@ -22,8 +22,12 @@ Here are some of the projects I have worked on:
 Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I'm always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
 
 <p align="center">
+  <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Alt Text" width="480">
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Alt Text" width="100%">
 </p>
+
 
 
 
