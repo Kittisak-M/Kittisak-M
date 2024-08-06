@@ -21,9 +21,7 @@ Here are some of the projects I have worked on:
 
 Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I'm always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Alt Text" width="480">
-</p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
 
 
 
