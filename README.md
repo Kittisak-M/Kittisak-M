@@ -21,5 +21,8 @@ Here are some of the projects I have worked on:
 
 Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I'm always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
 
-![Animated Data Science](https://media.giphy.com/media/5xtDar8MG0OEHQH8M9i/giphy.gif)
+<p align="center">
+  <a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz">via GIPHY</a>
+</p>
+
 
