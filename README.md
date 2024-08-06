@@ -1,12 +1,12 @@
 # About Me 🎓📊💼
 
-I am **Kittisak Maungmanee**, a passionate enthusiast in the fields of **Data Science**, **Finance**, and **Business**. I have a strong interest in leveraging data to drive business decisions and financial analysis. My goal is to combine my analytical skills with my business acumen to solve complex problems and create value. Whether it's through data cleaning, visualization, or statistical analysis, I am always eager to explore new methods and tools to enhance my understanding and insights.
+**Kittisak Maungmanee**, currently an Assistant Manager in the Salon Wholesales and Retail industries, is looking to transition into a Data Analyst role. Passionate about **Data Science**, **Finance**, and **Business**, with a strong enthusiasm for exploring opportunities in these fields.
 
 ## Skills 🛠️
 - **Programming Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
 - **Finance**: Stock Analysis, Finance Ratios Analysis, Financial Statement
-- **Business**: Competitive Analysis, Cost Analysis, Five Force Model 
+- **Business**: Competitive Analysis, Cost Analysis, Five Force Model, Feasibility Study
 - **Data Visualization**: Looker Studio 
 
 ## Projects 🚀
