@@ -19,7 +19,7 @@ Here are some of the projects I have worked on:
 - **[Supermarket Sales Dashboard](https://lookerstudio.google.com/s/lgnDUznW0qM)**: Build a comprehensive dashboard using Looker Studio to visualize and analyze the [Supermarket Sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from Kaggle.
 ## Contact 📧
 
-Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I'm always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
+Feel free to reach out to me via [Email](mailto:kittisak.maungmanee@gmail.com). I am always open to discussing new opportunities, collaborations, or just to connect with like-minded individuals.
 
 
 
