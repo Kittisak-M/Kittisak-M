@@ -4,7 +4,7 @@
 
 ## Skills 🛠️
 - **Programming Languages**: Python, SQL
-- **Database**: NoSQL, Microsoft SQL, PostgreSQL
+- **Database**: NoSQL, Microsoft SQL, MySQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
 - **Finance**: Stock Analysis, Finance Ratios Analysis, Financial Statement
 - **Business**: Competitive Analysis, Cost Analysis, Five Force Model, Feasibility Study
