@@ -3,13 +3,17 @@
 **Kittisak Maungmanee**, currently an Assistant Manager in the Salon Wholesales and Retail industries, is looking to transition into a Data Analyst role. Passionate about **Data Science**, **Finance**, and **Business**, with a strong enthusiasm for exploring opportunities in these fields.
 
 ## Skills 🛠️
+
 - **Programming Languages**: Python, SQL
-- **Database**: NoSQL, Microsoft SQL, MySQL
+- **Scripting**: Bash
+- **Databases**: NoSQL, Microsoft SQL Server, MySQL, PostgreSQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
-- **Finance**: Stock Analysis, Finance Ratios Analysis, Financial Statement
-- **Business**: Competitive Analysis, Cost Analysis, Five Force Model, Feasibility Study
-- **Data Visualization**: Looker Studio
-  
+- **Data Visualization**: Looker Studio, Microsoft Power BI
+- **Containerization**: Docker
+- **Finance**: Stock Analysis, Financial Ratios Analysis, Financial Statements
+- **Business**: Competitive Analysis, Cost Analysis, Five Forces Model, Feasibility Study
+- **Version Control**: Git
+- **Workflow Orchestration**: Apache Airflow
 
 ## Projects 🚀
 
