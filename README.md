@@ -5,15 +5,15 @@
 ## Skills 🛠️
 
 - **Programming Languages**: Python, SQL
-- **Scripting**: Bash
-- **Databases**: NoSQL, Microsoft SQL Server, MySQL, PostgreSQL
+- **Databases**: NoSQL, Microsoft SQL Server, MySQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
-- **Data Visualization**: Looker Studio, Microsoft Power BI
+- **Data Visualization**: Looker Studio
 - **Containerization**: Docker
 - **Finance**: Stock Analysis, Financial Ratios Analysis, Financial Statements
 - **Business**: Competitive Analysis, Cost Analysis, Five Forces Model, Feasibility Study
-- **Version Control**: Git
-- **Workflow Orchestration**: Apache Airflow
+- **Version Control**: Git, Git Bash
+- **ETL/ELT Tools**: Apache Airflow
+- **Data Modeling**: Star Schema, Snowflake Schema
 
 ## Projects 🚀
 
