@@ -4,7 +4,7 @@
 
 ## Skills 🛠️
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL, Javascript
 - **Databases**: NoSQL, Microsoft SQL Server, MySQL
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn
 - **Data Visualization**: Looker Studio
