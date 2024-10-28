@@ -25,7 +25,7 @@ Here are some of the projects I have worked on:
 - **[Algorithm Trading for Value and Growth Investment](Future Project)**
 - **[Sakila Database Analysis with SQLite](https://github.com/Kittisak-M/Sakila-Database-Analysis-with-SQLite)**: Utilize SQLite to explore the Sakila Database. This project includes writing and executing SQL queries to extract valuable insights and conduct comprehensive data analysis.
 - **[Supermarket Sales Dashboard](https://lookerstudio.google.com/s/lgnDUznW0qM)**: Build a comprehensive dashboard using Looker Studio to visualize and analyze the [Supermarket Sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from Kaggle.
-- **[Supermarket Data Pipeline Automation](https://github.com/Kittisak-M/Supermarket_ELTL)**: Automated a data pipeline for a supermarket database using Python, MySQL, and Google Drive as a data lake. The project includes ELTL (Extract, Load, Transform, and Log) processes, database backup, logging, and email notifications, scheduled with Windows Task Scheduler for complete automation.
+- **[Supermarket ELTL Data Pipline](https://github.com/Kittisak-M/Supermarket_ELTL)**: Automated a data pipeline for a supermarket database using Python, MySQL, and Google Drive as a data lake. The project includes ELTL (Extract, Load, Transform, and Log) processes, database backup, logging, and email notifications, scheduled with Windows Task Scheduler for complete automation.
 - 
 ## Contact 📧
 
